@@ -3,7 +3,7 @@
 These Terraform example templates uses the Terraform AzureRM Provider to provision servers in Azure and [Terraform Module ICP Deploy](https://github.com/ibm-cloud-architecture/terraform-module-icp-deploy) to deploy IBM Cloud Private on them.
 
 
-## Pre-requisits
+## Prerequisites
 - Working copy of [Terraform](https://www.terraform.io/intro/getting-started/install.html)
 - Basic understanding of [IBM Cloud Private](https://www.ibm.com/cloud/private)
 - Azure account
